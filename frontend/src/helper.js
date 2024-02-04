@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:9000"
+export const BASE_URL = "https://portfolio-backend-oyvx.onrender.com"
